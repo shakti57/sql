@@ -1,3 +1,5 @@
+#
+
 show databases;
 create database shakti;
 use shakti
