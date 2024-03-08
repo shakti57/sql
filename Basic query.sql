@@ -1,3 +1,8 @@
+#basic query
+
+
+
+
 show databases;
 
 create database cds16;
