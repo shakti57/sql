@@ -1,3 +1,7 @@
+#joins
+
+
+
 use cds16;
 
 create table customer(
