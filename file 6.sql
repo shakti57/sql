@@ -1,3 +1,6 @@
+#file 6
+
+
 use cds16;
 
 create table customer(
